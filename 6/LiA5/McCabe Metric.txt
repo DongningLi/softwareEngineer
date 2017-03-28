@@ -1,0 +1,4 @@
+The McCabe Metric
+    = The number of Predicate Nodes + 1
+    = 13 + 1
+    = 14

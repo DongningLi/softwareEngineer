@@ -1,0 +1,2 @@
+1. The velocity has to been smaller than third cosmic velocity. Otherwise, the planet will fly away from the sun into the universe.
+2. Open for extension and close for modifications. Surely this program adhere the principle. Other than two sentences of adding SATURN, the code does NOT need to be modified inside any other part of code.
